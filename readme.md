@@ -10,4 +10,4 @@ This project was created for practicing express.js and APIs as part of the Codec
 ## Roadmap
 - I would like to make this project work with Nodemon as dev dependency
 - I would like to add additional routes for PUT and DELETE
-- I may seperate the Quotes router to it's own file.
+- I may separate the Quotes router to it's own file.
